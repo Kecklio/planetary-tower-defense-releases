@@ -8,7 +8,7 @@ The finished game, ready to play on Windows. (The game's code isn't here.)
 2. Unzip it anywhere.
 3. Double-click `PlanetaryTowerDefense.exe`. `HOW-TO-PLAY.txt` beside it has the controls.
 
-Your universes are saved separately (in `%APPDATA%\LOVE\PlanetaryTowerDefense`), so a new version can go in a new folder and still find them.
+Your universes are saved separately (in `%APPDATA%\PlanetaryTowerDefense`), so a new version can go in a new folder and still find them.
 
 ## Versions
 
